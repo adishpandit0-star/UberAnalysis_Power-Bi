@@ -32,3 +32,38 @@ This dashboard helps mobility teams and business leaders to:
 ✔️ Enhance decision-making using real-time, interactive analytics
 
 Always learning. Always visualizing. 📊✨
+
+Project Screenshot:-
+
+Navagation page 
+
+<img width="1360" height="708" alt="image" src="https://github.com/user-attachments/assets/c81d9b5b-c195-46c2-a256-25901749e065" />
+
+
+Navagation page 
+
+
+<img width="1374" height="708" alt="image" src="https://github.com/user-attachments/assets/a45881b7-926e-4476-8d77-18d9052a5b02" />
+
+
+Overview Page
+
+
+<img width="1380" height="723" alt="image" src="https://github.com/user-attachments/assets/1b72e3ec-df91-4869-8b06-68434a632afc" />
+
+
+City Analysis Page
+
+
+<img width="1379" height="729" alt="image" src="https://github.com/user-attachments/assets/db8034e5-7ee5-4903-a452-107fe796ce71" />
+
+
+Details Page
+
+
+<img width="1378" height="726" alt="image" src="https://github.com/user-attachments/assets/fb75b803-e767-4bb9-bafc-e4e9f2cb3378" />
+
+
+
+
+
